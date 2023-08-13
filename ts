@@ -2,7 +2,7 @@
 -- Window & Library
 
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Window = Library.CreateLib("this is the name or the script", "Synapse")
+local Window = Library.CreateLib("this is the name of the hub", "Synapse")
 --------------------------------------------------------------------in there i typed synapse so its the color like orange and black and grey or smt all the other types are [ LightTheme
  --   DarkTheme
  --   GrapeTheme  BloodTheme
