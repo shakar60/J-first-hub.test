@@ -2,8 +2,8 @@
 -- Window & Library
 
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Window = Library.CreateLib("Synapse")
-----------------------------------in there i typed synapse so its the color like orange and black and grey or smt all the other types are [ LightTheme
+local Window = Library.CreateLib("this is the name or the script", "Synapse")
+--------------------------------------------------------------------in there i typed synapse so its the color like orange and black and grey or smt all the other types are [ LightTheme
  --   DarkTheme
  --   GrapeTheme  BloodTheme
  --   Ocean
@@ -103,3 +103,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/Protected_/m
     print("Clicked")
 end)--in here it should say tab 1 section because we have a tab if we dont have a tab we dont need to use this and all the scripts will be in 1 tab
 --to find more things about kavo ui library on google/safari search kavo ui library and it will come but use my window so its Draggable but kavo ui window isnt Draggable
+Tab1Section:NewButton("this is the name of the script", "this is the info of the script", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/Protected_/main/File",true))()
+    print("Clicked")
+end)
